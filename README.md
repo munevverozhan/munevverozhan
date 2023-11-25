@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Münevver Özhan. 
-🌱 I’m currently learning C#
+🌱 I’m currently learning React.js
